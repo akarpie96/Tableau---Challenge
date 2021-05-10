@@ -1,7 +1,7 @@
 # Citi Bike Data Presentation - Tableau 
 
 Link to Tableau Public Project: https://public.tableau.com/profile/aaron.karpie#!/vizhome/Tableau-CitiBikeProject/Story1
-## Phenomonen #1: Peak Hours During  
+## Phenomenon #1: Peak Hours During  
 
 Peak Hours during Winter appear to be 1-6pm. Peak hours during Summer appear to be 6-7pm. The reason for the Sumemr peak hours could be that people are prone to renting Citi Bikes in the evenings when it's cooler, avoiding the high temperatures/humidity during the day.
 
@@ -24,8 +24,11 @@ The reason for this phenomenon could be Covid restrictions in Jersey City/NY and
 <img src="/Images/Age Trip Duration.PNG" alt="My cool logo"/>
 
 
-## Phenomomenon #4: Change In Ridership Month to Month 
+## Phenomenon #4: Change In Ridership Month to Month 
 
 Largest decrease in ridership occured from October to November for both males and female subscribers/customers. The reasoning for the drop in customers could be a substantial decrease in temperature on the East Coast in November. 
 
 The drop in subscribers could be attributed to Covid restrictions as the NY metro area experienced a surge beginning in November. 
+<img src="/Images/Change by Month.PNG" alt="My cool logo"/>
+
+
